@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/library-app/static/js/main.00700938.js",
+    "static/media/book.jpg": "/library-app/static/media/book.bb868d921d9ac1db3fb6.jpg",
+    "index.html": "/library-app/index.html",
+    "main.00700938.js.map": "/library-app/static/js/main.00700938.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.00700938.js"
+  ]
+}
